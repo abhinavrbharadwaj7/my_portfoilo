@@ -51,8 +51,8 @@ Continuous deployment from GitHub
 
 Contact
 
-Email: [Your Email]
-LinkedIn: [Your LinkedIn Profile]
+Email: [abhinavrbharadwaj86@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/abhinavrbharadwaj/]
 
 License
 MIT License
