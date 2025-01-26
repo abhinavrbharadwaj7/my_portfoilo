@@ -1,45 +1,60 @@
-<div align="center">
-<img alt" width="90%">
-</div>
+Overview
+A comprehensive personal portfolio showcasing professional skills, projects, and achievements.
+Technologies Used
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+React
+Tailwind CSS
+Framer Motion
+Vite
 
-# Features
+Features
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+Responsive design
+Interactive animations
+Project showcase
+Contact form
+Dark/Light mode toggle
 
-# Getting Started Locally
+Setup and Installation
+Prerequisites
 
-1. Clone this repository to your local machine:
+Node.js (v18+)
+npm or yarn
 
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
+Installation Steps
 
-2. Move to the cloned directory
+Clone the repository
+bashCopygit clone https://github.com/abhinavrbharadwaj7/my_portfoilo.git
+cd my_portfoilo
 
-   ```bash
-   cd portfolio
-   ```
+Install dependencies
+bashCopynpm install
 
-3. Install dependencies:
+Run development server
+bashCopynpm run dev
 
-   ```bash
-   pnpm install
-   ```
+Build for production
+bashCopynpm run build
 
-4. Start the local Server:
 
-   ```bash
-   pnpm dev
-   ```
+Project Structure
+Copysrc/
+├── components/
+├── pages/
+├── assets/
+├── hooks/
+└── utils/
+Deployment
 
-5. Open the [Config file](./src/data/resume.tsx) and make changes
+Hosted on Vercel/Netlify
+Continuous deployment from GitHub
 
-# License
+Contact
 
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
+Email: [Your Email]
+LinkedIn: [Your LinkedIn Profile]
+
+License
+MIT License
+</parameter>
+</invoke> CopyRetryClaude does not have the ability to run the code it generates yet.
