@@ -3,6 +3,7 @@ import { AppProps } from "next/app";
 // ...existing code...
 
 function MyApp({ Component, pageProps }: AppProps) {
+  console.log("Rendering MyApp with title Abhinav R Bharadwaj");
   return (
     <>
       <Head>
