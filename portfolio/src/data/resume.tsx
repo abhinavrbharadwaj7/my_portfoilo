@@ -246,9 +246,9 @@ export const DATA = {
   ],
   hackathons: [
     {
-      title: "McGill AI for Social Innovation Hackathon",
-      dates: "June 17th - 18th, 2017",
-      location: "Montreal, Quebec",
+      title: "Scientific Computing with Python",
+      dates: "",
+      location: "Remote",
       description:
         "Developed realtime facial microexpression analyzer using AI",
       image:
@@ -257,7 +257,7 @@ export const DATA = {
     },
    
     {
-      title: "HackMining",
+      title: "J.P. Morgan Software Engineering Virtual Experience Program",
       dates: "May 12th - 14th, 2017",
       location: "Toronto, Ontario",
       description: "Developed neural network to optimize a mining process",
@@ -267,7 +267,7 @@ export const DATA = {
     },
     
     {
-      title: "SpaceApps Waterloo",
+      title: "Search Engine Technology & Generative AI",
       dates: "April 28th - 30th, 2017",
       location: "Waterloo, Ontario",
       description:
@@ -283,7 +283,7 @@ export const DATA = {
       ],
     },
     {
-      title: "MHacks 9",
+      title: "Learn R programming language in Infosys springboard",
       dates: "March 24th - 26th, 2017",
       location: "Ann Arbor, Michigan",
       description:
@@ -301,24 +301,9 @@ export const DATA = {
     },
    
    
+   
     {
-      title: "Terrible Hacks V",
-      dates: "November 26th, 2016",
-      location: "Waterloo, Ontario",
-      description:
-        "Developed a mock of Windows 11 with interesting notifications and functionality",
-      image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/terrible-hacks-v.png",
-      links: [
-        {
-          title: "Source",
-          icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/justinmichaud/TerribleHacks2016-Windows11",
-        },
-      ],
-    },
-    {
-      title: "Portal Hackathon",
+      title: "Python Fundamentals in Infosys springboard",
       dates: "October 29, 2016",
       location: "Kingston, Ontario",
       description:
