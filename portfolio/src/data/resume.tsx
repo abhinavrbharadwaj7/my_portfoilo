@@ -252,7 +252,7 @@ export const DATA = {
       description:
         "Developed realtime facial microexpression analyzer using AI",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/ai-for-social-good.jpg",
+        "https://clipground.com/images/freecodecamp-logo-6.jpg",
       links: [],
     },
    
@@ -262,7 +262,7 @@ export const DATA = {
       location: "Toronto, Ontario",
       description: "Developed neural network to optimize a mining process",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-mining.png",
+        "https://undergradcareers.nd.edu/assets/542930/290x/foragelogo.jpg",
       links: [],
     },
     
@@ -273,14 +273,8 @@ export const DATA = {
       description:
         "Developed Earthwatch, a web application which allows users in a plane to virtually see important points of interest about the world below them. They can even choose to fly away from their route and then fly back if they choose. Special thanks to CesiumJS for providing open source world and plane models.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/space-apps.png",
-      links: [
-        {
-          title: "Source",
-          icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/earthwatch",
-        },
-      ],
+        "https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png",
+      links: [],
     },
     {
       title: "Learn R programming language in Infosys springboard",
@@ -289,15 +283,11 @@ export const DATA = {
       description:
         "Developed Super Graphic Air Traffic, a VR website made to introduce people to the world of air traffic controlling. This project was built completely using THREE.js as well as a node backend server.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/mhacks-9.png",
+        "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/springboard-logo.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2017/white.svg",
-      links: [
-        {
-          title: "Source",
-          icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/threejs-planes",
-        },
-      ],
+      links: [],
+        
+      
     },
    
    
@@ -309,14 +299,8 @@ export const DATA = {
       description:
         "Developed an internal widget for uploading assignments using Waterloo's portal app",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/portal-hackathon.png",
-      links: [
-        {
-          title: "Source",
-          icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/UWPortalSDK/crowmark",
-        },
-      ],
+        "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/springboard-logo.png",
+      links: [],
     },
   ],
 } as const;
