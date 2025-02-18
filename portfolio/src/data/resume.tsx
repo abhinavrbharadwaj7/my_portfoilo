@@ -250,7 +250,7 @@ export const DATA = {
       dates: "",
       location: "Remote",
       description:
-        "Developed realtime facial microexpression analyzer using AI",
+        "FreeCodeCamp's Scientific Computing with Python course teaches essential libraries like NumPy for numerical computations 🧮, SciPy for scientific functions 🔬, and Matplotlib for data visualization 📊. You'll also learn Pandas for data manipulation 📑, along with topics like RegEx, Web Scraping, and APIs.",
       image:
         "https://clipground.com/images/freecodecamp-logo-6.jpg",
       links: [],
@@ -258,9 +258,9 @@ export const DATA = {
    
     {
       title: "J.P. Morgan Software Engineering Virtual Experience Program",
-      dates: "May 12th - 14th, 2017",
-      location: "Toronto, Ontario",
-      description: "Developed neural network to optimize a mining process",
+      dates: "",
+      location: "Remote",
+      description: "The J.P. Morgan Software Engineering Virtual Experience Program, offered through platforms like Forage, is a free, self-paced program designed to give students hands-on experience with real-world software development tasks. Participants work on projects such as building a data visualization dashboard, implementing secure authentication, and handling financial transactions using Python and other technologies. This program provides valuable insights into the financial technology sector, helping students develop technical skills while gaining exposure to J.P. Morgan’s work environment.",
       image:
         "https://undergradcareers.nd.edu/assets/542930/290x/foragelogo.jpg",
       links: [],
@@ -268,20 +268,20 @@ export const DATA = {
     
     {
       title: "Search Engine Technology & Generative AI",
-      dates: "April 28th - 30th, 2017",
-      location: "Waterloo, Ontario",
+      dates: "",
+      location: "Remote",
       description:
-        "Developed Earthwatch, a web application which allows users in a plane to virtually see important points of interest about the world below them. They can even choose to fly away from their route and then fly back if they choose. Special thanks to CesiumJS for providing open source world and plane models.",
+        "Search Engine Technology focuses on designing algorithms to retrieve and rank the most relevant information from vast datasets. It involves techniques like web crawling, indexing, ranking algorithms (e.g., PageRank), and Natural Language Processing (NLP) to improve search accuracy.  Generative AI, powered by models like GPT (ChatGPT), DALL·E, and BERT, enhances search engines by understanding queries better, generating human-like responses, and even creating summaries or images. AI-driven search engines, like Google’s SGE (Search Generative Experience), aim to provide more contextual and conversational results, transforming how users interact with information online. 🚀🔍",
       image:
         "https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png",
       links: [],
     },
     {
       title: "Learn R programming language in Infosys springboard",
-      dates: "March 24th - 26th, 2017",
-      location: "Ann Arbor, Michigan",
+      dates: "",
+      location: "Remote",
       description:
-        "Developed Super Graphic Air Traffic, a VR website made to introduce people to the world of air traffic controlling. This project was built completely using THREE.js as well as a node backend server.",
+        "The R Programming course on Infosys Springboard is designed to help learners master data analysis, statistical computing, and visualization using R. It covers fundamental concepts like data structures, functions, loops, and data manipulation with libraries such as ggplot2, dplyr, and tidyr. The course is ideal for beginners interested in data science, machine learning, and analytics. With hands-on exercises and real-world applications",
       image:
         "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/springboard-logo.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2017/white.svg",
@@ -294,10 +294,10 @@ export const DATA = {
    
     {
       title: "Python Fundamentals in Infosys springboard",
-      dates: "October 29, 2016",
-      location: "Kingston, Ontario",
+      dates: "",
+      location: "Remote",
       description:
-        "Developed an internal widget for uploading assignments using Waterloo's portal app",
+        "The Python Fundamentals course on Infosys Springboard introduces learners to the basics of Python programming, covering variables, data types, loops, functions, and object-oriented programming (OOP). It provides hands-on experience in writing Python scripts, solving problems, and working with libraries for real-world applications. This course is ideal for beginners looking to build a strong foundation in programming",
       image:
         "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/springboard-logo.png",
       links: [],
