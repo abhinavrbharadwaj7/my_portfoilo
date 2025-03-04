@@ -123,11 +123,10 @@ export const DATA = {
   projects: [
     {
       title: "Smart Home Automation Dashboard",
-      href: "",
-      dates: "Jan 2024 - Feb 2024",
+      href: "https://abhinavrbharadwaj7.github.io/smart-home-dashboard/",
       active: true,
       description:
-        "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+        "Project Overview: Developed a Smart Home Dashboard as part of the internship program, aimed at providing users with an intuitive interface to monitor and control their smart home devices.Front-End Development: I have built a frontend dashboard using HTML CSS and JavaScript, weather APIs. It Shows the Realtime weather, current time, current device battery",
       technologies: [
         "HTML",
         "CSS",
@@ -137,7 +136,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://chatcollect.com",
+          href: "https://abhinavrbharadwaj7.github.io/smart-home-dashboard/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
@@ -146,33 +145,25 @@ export const DATA = {
         "",
     },
     {
-      title: "Magic UI",
-      href: "https://magicui.design",
-      dates: "June 2023 - Present",
+      title: "Word building game",
+      href: "https://github.com/abhinavrbharadwaj7/word_building_game",
       active: true,
       description:
-        "Designed, developed and sold animated UI components for developers.",
+        "Project Overview: Developed a word-building game in Django with user authentication and score tracking. Technologies Used: Django, HTML, CSS, JavaScript.  Key Features: Python logic in views.py, JavaScript-based timer",
       technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
+        "Django",
+        "Python",
+        "CSS",
+        "HTML",
+
       ],
       links: [
         {
           type: "Website",
-          href: "https://magicui.design",
+          href: "https://github.com/abhinavrbharadwaj7/word_building_game",
           icon: <Icons.globe className="size-3" />,
         },
-        {
-          type: "Source",
-          href: "https://github.com/magicuidesign/magicui",
-          icon: <Icons.github className="size-3" />,
-        },
+       
       ],
       image: "",
       video: "",
@@ -180,7 +171,6 @@ export const DATA = {
     {
       title: "llm.report",
       href: "https://llm.report",
-      dates: "April 2023 - September 2023",
       active: true,
       description:
         "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
@@ -213,7 +203,6 @@ export const DATA = {
     {
       title: "Automatic Chat",
       href: "https://automatic.chat",
-      dates: "April 2023 - March 2024",
       active: true,
       description:
         "Developed an AI Customer Support Chatbot which automatically responds to customer support tickets using the latest GPT models.",
