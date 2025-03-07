@@ -169,7 +169,7 @@ export const DATA = {
       video: "",
     },
     {
-      title: "llm.report",
+      title: "Real-Time Chat System",
       href: "https://llm.report",
       active: true,
       description:
@@ -201,7 +201,7 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Automatic Chat",
+      title: "EDUQUEST - Jan 2025",
       href: "https://automatic.chat",
       active: true,
       description:
