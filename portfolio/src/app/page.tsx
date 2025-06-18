@@ -107,17 +107,7 @@ export default function Page() {
             <h2 className="text-xl font-bold">Skills</h2>
           </BlurFade>
           <div className="flex flex-wrap gap-1">
-            {DATA.skills
-              .filter(
-                (skill) =>
-                  skill !== "Typescript" &&
-                  skill !== "Mongodb" &&
-                  skill !== "MongoDB" &&
-                  skill !== "Java" &&
-                  skill !== "OOPs" &&
-                  skill !== "SQL"
-              )
-              .map((skill, id) => (
+            {DATA.skills.map((skill, id) => (
                 <BlurFade key={skill} delay={BLUR_FADE_DELAY * 10 + id * 0.05}>
                   <Badge key={skill}>{skill}</Badge>
                 </BlurFade>
