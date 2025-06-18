@@ -53,6 +53,10 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  // Remove unwanted skills globally from DATA.skills if used here,
+  // but the actual rendering is likely in page.tsx or a component.
+  // So, no change needed here unless you use DATA.skills directly in this file.
+
   return (
     <html lang="en" suppressHydrationWarning>
       <body

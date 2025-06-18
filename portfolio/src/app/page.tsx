@@ -27,7 +27,7 @@ export default function Page() {
               <BlurFadeText
                 className="max-w-[600px] md:text-xl"
                 delay={BLUR_FADE_DELAY}
-                text={`Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Git-hub.`}
+                text={`Aspiring Software Engineer with a strong foundation in full-stack development and a passion for solving real-world problems through code`}
               />
             </div>
             <BlurFade delay={BLUR_FADE_DELAY}>
@@ -61,7 +61,11 @@ export default function Page() {
             >
               <ResumeCard
                 key={work.company}
-                logoUrl={work.logoUrl || "acquis_compliance_logo.jpeg"}
+                logoUrl={
+                  work.company === "Acquis Compliance"
+                    ? "/acquis_compliance_logo.jpeg"
+                    : work.logoUrl
+                }
                 altText={work.company}
                 title={work.company}
                 subtitle={work.title}
@@ -103,11 +107,21 @@ export default function Page() {
             <h2 className="text-xl font-bold">Skills</h2>
           </BlurFade>
           <div className="flex flex-wrap gap-1">
-            {DATA.skills.map((skill, id) => (
-              <BlurFade key={skill} delay={BLUR_FADE_DELAY * 10 + id * 0.05}>
-                <Badge key={skill}>{skill}</Badge>
-              </BlurFade>
-            ))}
+            {DATA.skills
+              .filter(
+                (skill) =>
+                  skill !== "Typescript" &&
+                  skill !== "Mongodb" &&
+                  skill !== "MongoDB" &&
+                  skill !== "Java" &&
+                  skill !== "OOPs" &&
+                  skill !== "SQL"
+              )
+              .map((skill, id) => (
+                <BlurFade key={skill} delay={BLUR_FADE_DELAY * 10 + id * 0.05}>
+                  <Badge key={skill}>{skill}</Badge>
+                </BlurFade>
+              ))}
           </div>
         </div>
       </section>
@@ -141,7 +155,6 @@ export default function Page() {
                   key={project.title}
                   title={project.title}
                   description={project.description}
-                  dates={project.dates}
                   tags={project.technologies}
                   image={project.image}
                   video={project.video}
@@ -218,3 +231,4 @@ export default function Page() {
     </main>
   );
 }
+
