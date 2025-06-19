@@ -184,25 +184,24 @@ export const DATA = {
       description:
         "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
       technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
+        "REACT",
+        "JAVA SCRIPT",
+        "SQL",
+        "Node.js",
         "TailwindCSS",
-        "Shadcn UI",
-        "Magic UI",
-        "Stripe",
-        "Cloudflare Workers",
+        "PHP",
+        "XAMPP",
+        
       ],
       links: [
         {
           type: "Website",
-          href: "https://github.com/aksharkh/word-building-game",
+          href: "https://github.com/aksharkh/real-time-chat",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/aksharkh/word-building-game",
+          href: "https://github.com/aksharkh/real-time-chat",
           icon: <Icons.github className="size-3" />,
         },
       ],
