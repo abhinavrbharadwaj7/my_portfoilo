@@ -179,7 +179,7 @@ export const DATA = {
     },
     {
       title: "Real-Time Chat System",
-      href: "https://llm.report",
+      href: "",
       active: true,
       description:
         "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
@@ -197,12 +197,12 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://llm.report",
+          href: "https://github.com/aksharkh/word-building-game",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/dillionverma/llm.report",
+          href: "https://github.com/aksharkh/word-building-game",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -211,25 +211,25 @@ export const DATA = {
     },
     {
       title: "EDUQUEST - Jan 2025",
-      href: "https://automatic.chat",
+      href: "https://github.com/abhinavrbharadwaj7/EduQuest",
       active: true,
       description:
         "Developed an AI Customer Support Chatbot which automatically responds to customer support tickets using the latest GPT models.",
       technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Shadcn UI",
-        "Magic UI",
-        "Stripe",
-        "Cloudflare Workers",
+        "React",
+        "Mern Stack",
+        "MangoDB",
+        "COCO",
+        "MUI",
+        "TensorFlow",
+        "JSX",
+        "JWT",
+        "CSS Modules",
       ],
       links: [
         {
           type: "Website",
-          href: "https://automatic.chat",
+          href: "https://github.com/abhinavrbharadwaj7/EduQuest",
           icon: <Icons.globe className="size-3" />,
         },
       ],
