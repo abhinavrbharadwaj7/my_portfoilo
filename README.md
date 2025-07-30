@@ -40,9 +40,8 @@ Install dependencies:
 npm install
 ```
 Run the development server:
-```
-```bash
 
+```bash
 npm run dev
 ```
 Open http://localhost:3000 in your browser.
