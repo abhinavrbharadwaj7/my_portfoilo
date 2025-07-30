@@ -1,51 +1,45 @@
- My Portfolio Website
-A modern personal portfolio website built with Next.js, React, and Tailwind CSS to showcase my projects, skills, and professional journey. The site is fully responsive, fast, and SEO-friendly, providing a smooth browsing experience across all devices.
+# 🌐 My Portfolio Website  
 
+A **modern personal portfolio website** built with **Next.js, React, and Tailwind CSS** to showcase my projects, skills, and professional journey. The site is fully responsive, fast, and SEO-friendly, providing a smooth browsing experience across all devices.  
 
-📌 Features
-🎨 Modern & Clean UI – Sleek and visually appealing design.
+## 🚀 Live Demo  
+🔗 [View Portfolio](https://my-portfoilo-ashy.vercel.app/)  
 
-⚡ Built with Next.js – Server-side rendering and optimized performance.
+---
 
-📱 Fully Responsive – Works perfectly on desktop, tablet, and mobile.
+## 📌 Features  
 
-🧑‍💻 About Me Section – Highlights my background, skills, and experience.
+- 🎨 **Modern & Clean UI** – Sleek and visually appealing design.  
+- ⚡ **Built with Next.js** – Server-side rendering and optimized performance.  
+- 📱 **Fully Responsive** – Works perfectly on desktop, tablet, and mobile.  
+- 🧑‍💻 **About Me Section** – Highlights my background, skills, and experience.  
+- 💼 **Projects Showcase** – Displays key projects with descriptions and live links.  
+- 📬 **Contact Section** – Easy way for visitors to get in touch with me.  
+- 🌟 **Fast & SEO-Friendly** – Optimized for speed and search engine rankings.  
 
-💼 Projects Showcase – Displays key projects with descriptions and live links.
+---
 
-📬 Contact Section – Easy way for visitors to get in touch with me.
+## 🛠️ Tech Stack  
 
-🌟 Fast & SEO-Friendly – Optimized for speed and search engine rankings.
+- **Next.js (React Framework)** – For building and routing pages.  
+- **Tailwind CSS** – For modern, responsive styling.  
+- **JavaScript (ES6+)** – Interactive components and functionality.  
+- **Vercel** – Hosting and continuous deployment.  
 
-🛠️ Tech Stack
-Next.js (React Framework) – For building and routing pages.
+---
 
-Tailwind CSS – For modern, responsive styling.
+## ⚡ Getting Started  
 
-JavaScript (ES6+) – Interactive components and functionality.
-
-Vercel – Hosting and continuous deployment.
-
-⚡ Getting Started
-Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/abhinavrbharadwaj7/my_portfoilo.git
-Navigate to the project folder
-
-bash
-Copy
-Edit
-cd my_portfoilo
-Install dependencies
+Clone the repository:
+  ```bash
+  git clone https://github.com/abhinavrbharadwaj7/my_portfoilo.git
+Install dependencies:
 
 bash
 Copy
 Edit
 npm install
-Run the development server
+Run the development server:
 
 bash
 Copy
@@ -69,4 +63,4 @@ LinkedIn: abhinavrbharadwaj
 
 Email: abhinavrbharadwaj7@gmail.com
 
-⭐ If you like this project, don't forget to star this repository!
+
