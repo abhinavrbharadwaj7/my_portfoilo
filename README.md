@@ -35,13 +35,13 @@ Clone the repository:
   git clone https://github.com/abhinavrbharadwaj7/my_portfoilo.git
 Install dependencies:
 
-bash
+```bash
 Copy
 Edit
 npm install
 Run the development server:
 
-bash
+```bash
 Copy
 Edit
 npm run dev
