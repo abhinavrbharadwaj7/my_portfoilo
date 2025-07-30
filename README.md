@@ -34,17 +34,17 @@ Clone the repository:
   ```bash
   git clone https://github.com/abhinavrbharadwaj7/my_portfoilo.git
 Install dependencies:
+```
 
 ```bash
-Copy
-Edit
 npm install
+```
 Run the development server:
-
+```
 ```bash
-Copy
-Edit
+
 npm run dev
+```
 Open http://localhost:3000 in your browser.
 
 🌟 Future Enhancements
